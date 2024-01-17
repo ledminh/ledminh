@@ -12,9 +12,9 @@ I'm Minh Le, a passionate web developer based in Greenville, South Carolina. I h
 
 I'm currently focused on enhancing my skills and building a standout portfolio to kickstart my career. Here's what I've achieved so far:
 
-1. **[Learning Journal App](learning-journal)**: I built a learning journal app using Next.js. This app helps me document my learning journey and practice explaining complex computer science concepts.
+1. **[Learning Journal App](https://github.com/ledminh/learning-journal)**: I built a learning journal app using Next.js. This app helps me document my learning journey and practice explaining complex computer science concepts.
 
-2. **Portfolio Website**: I've created a portfolio website that showcases my work, educational background, skills, and a bit about myself.
+2. **[Portfolio Website](https://github.com/ledminh/ledminh.dev)**: I've created a portfolio website that showcases my work, educational background, skills, and a bit about myself.
 
 3. **Algorithm Practice**: I'm dedicated to reviewing algorithms, data structures, and solving LeetCode problems to sharpen my problem-solving skills.
 
